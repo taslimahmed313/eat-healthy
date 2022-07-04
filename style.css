@@ -12,7 +12,7 @@ section {
   padding-left: 50px;
 }
 .first-style h1 {
-  font-size: 35px;
+  font-size: 40px;
   color: #575757;
 }
 span {
@@ -29,6 +29,8 @@ span {
   border-radius: 20px;
 }
 .fit-hero img {
-  width: 100%;
+  width: 90%;
   margin-top: 30px;
+  margin-right: 50px;
+  padding-right: 50px;
 }
