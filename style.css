@@ -27,6 +27,8 @@ span {
   padding: 10px 30px;
   text-decoration: none;
   border-radius: 20px;
+  display: inline-block;
+  margin-top: 15px;
 }
 .fit-hero img {
   width: 90%;
